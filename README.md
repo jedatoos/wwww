@@ -3,3 +3,4 @@
 
 
 -Practica 
+Para ejecutar el sistema debes poner algo 
